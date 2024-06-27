@@ -3,6 +3,7 @@ import Link from 'next/link';
 import { SignedIn, UserButton } from '@clerk/nextjs';
 
 import MobileNav from './MobileNav';
+//
 
 const Navbar = () => {
   return (
